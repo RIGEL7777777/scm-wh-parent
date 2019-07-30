@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-auth/scm-wh-auth.iml" filepath="$PROJECT_DIR$/scm-wh-auth/scm-wh-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-base/scm-wh-base.iml" filepath="$PROJECT_DIR$/scm-wh-base/scm-wh-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-business-external/scm-wh-business-external.iml" filepath="$PROJECT_DIR$/scm-wh-business-external/scm-wh-business-external.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-business-service/scm-wh-business-service.iml" filepath="$PROJECT_DIR$/scm-wh-business-service/scm-wh-business-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-config/scm-wh-config.iml" filepath="$PROJECT_DIR$/scm-wh-config/scm-wh-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-gateway/scm-wh-gateway.iml" filepath="$PROJECT_DIR$/scm-wh-gateway/scm-wh-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-parent.iml" filepath="$PROJECT_DIR$/scm-wh-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-upload/scm-wh-upload.iml" filepath="$PROJECT_DIR$/scm-wh-upload/scm-wh-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-wh-util/scm-wh-util.iml" filepath="$PROJECT_DIR$/scm-wh-util/scm-wh-util.iml" />
+    </modules>
+  </component>
+</project>

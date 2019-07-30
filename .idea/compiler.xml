@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scm-wh-auth" />
+        <module name="scm-wh-base" />
+        <module name="scm-wh-business-external" />
+        <module name="scm-wh-business-service" />
+        <module name="scm-wh-config" />
+        <module name="scm-wh-gateway" />
+        <module name="scm-wh-upload" />
+        <module name="scm-wh-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="scm-wh-auth" target="1.8" />
+      <module name="scm-wh-base" target="1.8" />
+      <module name="scm-wh-business-external" target="1.8" />
+      <module name="scm-wh-business-service" target="1.8" />
+      <module name="scm-wh-config" target="1.8" />
+      <module name="scm-wh-gateway" target="1.8" />
+      <module name="scm-wh-parent" target="1.8" />
+      <module name="scm-wh-upload" target="1.8" />
+      <module name="scm-wh-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
